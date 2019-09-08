@@ -1,7 +1,7 @@
 # Image Registration and Splitting
 Using different methods to realize image registration and splitting
 
-Author: Zhang zhihong
+Author: Zhang Zhihong
 
 Email: z_zhi_hong@163.com
 
